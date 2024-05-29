@@ -1,5 +1,3 @@
-Codsoft
-
 
 Codsoft Internship tasks
 
