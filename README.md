@@ -3,7 +3,8 @@ Codsoft Internship tasks
 
 1st task
 
-My first task was to build a signup flow for the mobile screen where users could easily sign up or log in without any frustration. The file named "Signup-1 and Signup-2" is the design.
+My first task was to build a signup flow for the mobile screen where users could easily sign up or log in without any frustration. The file named "Signup-1 and Signup-2" is the design. https://www.figma.com/design/zUB3SrdqQdyaVdZ80jXVPm
+
 
 2nd Task
 
